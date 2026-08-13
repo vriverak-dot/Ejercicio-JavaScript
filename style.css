@@ -1,0 +1,26 @@
+a, p {
+    font-family: 'Orbitron', sans-serif !important;
+        text-decoration: underline;
+        color: #f2e900;
+        text-shadow: 2px 2px 4px #ffffff;
+}   
+
+h1 {
+    font-family: 'Orbitron', sans-serif !important;
+    text-decoration: underline;
+    color: #02d7f2;
+    text-shadow: 2px 2px 4px #ffffff;
+}   
+
+title {
+    font-family: 'Orbitron', sans-serif !important;
+}
+
+body {
+    font-family: 'Barlow Condensed', sans-serif !important;
+    color: #ffffff;
+background-image: url('https://wallpapercave.com/wp/wp12093151.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+
